@@ -36,7 +36,7 @@ const List sample_data = [
   {
     "id": 5,
     "question": "Trong phân tích hệ thống, thành phần nào sau đây KHÔNG phải là thành phần bạn cần hiểu?",
-    "options": ['Mục tiêu kinh doanh', 'Thông tin mọi người cần để thực hiện công việc của họ', 'Các quy tắc quản lý dữ liệu', 'Quy mô của ngân sách'],
+    "options": ['Mục tiêu kinh doanh', 'Thông tin công việc của từng người', 'Các quy tắc quản lý dữ liệu', 'Quy mô của ngân sách'],
     "answer_index": 3,
   },
   {
